@@ -1,3 +1,5 @@
+//Cái này là chỉ cần add nhau là ok à?
+
 /* arr.length & arr.push()
 const arr=[25, 154, 461, 67, 32, 43];
 var lenght = arr.length;
