@@ -1,4 +1,4 @@
-// Vuong Da thay doi
+// Code đã bị thay đổi
 /* arr.length & arr.push()
 const arr=[25, 154, 461, 67, 32, 43];
 var lenght = arr.length;
