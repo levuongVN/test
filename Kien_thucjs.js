@@ -1,4 +1,4 @@
-//Cái này là chỉ cần add nhau là ok à?
+//hello cu
 //  git pull  vào nữa mới được 
 /* arr.length & arr.push()
 const arr=[25, 154, 461, 67, 32, 43];
